@@ -10,3 +10,6 @@ Just add in the subject the following legend TASK FOR SCHOOL"
 ### My skills are:
 - Java (JSP, SPRINGBOOT & HIBERNATE)
 - HTML, CSS & JAVASCRIPT
+
+### Find me 🔍
+- [website](https://www.linkedin.com/in/daniel-juarez-7b2098248/)
