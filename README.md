@@ -3,7 +3,7 @@
 I am a java developer ☕
 In these last months I have specialized in JSP & SpringBoot
 
-📖 For students you can contact me through my email 📖
+### 📖 For students you can contact me through my email 📖
 d.esau2003@gmail.com
 Just add in the subject the following legend TASK FOR SCHOOL"
 
@@ -12,4 +12,5 @@ Just add in the subject the following legend TASK FOR SCHOOL"
 - HTML, CSS & JAVASCRIPT
 
 ### Find me 🔍
-- [website](https://www.linkedin.com/in/daniel-juarez-7b2098248/)
+- [Linkedin](https://www.linkedin.com/in/daniel-juarez-7b2098248/)
+- [Instagram](https://www.instagram.com/daesjuar03/) Here i upload videos about java
