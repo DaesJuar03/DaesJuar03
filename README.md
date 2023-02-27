@@ -1,7 +1,6 @@
-# Hi there 👋
-
+# About Me 
 I am a java developer ☕
-In these last months I have specialized in JSP & SpringBoot
+In these last months I have specialized in JSP & SpringBoot, i currently reside in Mexico, I have a great pleasure in software development and learning new technologies.
 
 # 📖 For students you can contact me through my email 📖
 d.esau2003@gmail.com
