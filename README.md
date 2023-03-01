@@ -14,3 +14,4 @@ In these last months I have specialized in JSP & SpringBoot, i currently reside 
 - [Linkedin](https://www.linkedin.com/in/daniel-juarez-7b2098248/)
 - [Instagram](https://www.instagram.com/daesjuar03/) (Here i upload videos about java)
 - [CV](https://drive.google.com/file/d/1M2nnLphBg_QVgNDfS4fghYJo9oqyjmBj/view?usp=share_link) 
+- [Discord] MØCØ#1946
