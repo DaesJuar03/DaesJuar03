@@ -1,8 +1,10 @@
-# About Me 
+# About Me | Acerca De Mi
 I am a java developer ☕
 In these last months I have specialized in JSP & SpringBoot, i currently reside in Mexico, I have a great pleasure in software development and learning new technologies.
+Soy desarrollador java ☕
+En estos ultimos meses me he estado especializando en JSP y SpringBoot, actualmente resido en mexico, tengo un gran gusto por el desarrollo de software y el aprendizaje de nuevas tecnologias.
 
-# 📖 For students you can contact me through my email 📖
+# 📖 For students you can contact me through my email 📖 
 - d.esau2003@gmail.com
 (Just add in the subject the following legend TASK FOR SCHOOL)
 
