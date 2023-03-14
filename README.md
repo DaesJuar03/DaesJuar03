@@ -1,6 +1,6 @@
 # About Me | Acerca De Mi
 I am a java developer ☕
-In these last months I have specialized in JSP & SpringBoot, i currently reside in Mexico, I have a great pleasure in software development and learning new technologies.
+In these last months I have specialized in JSP & SpringBoot, i currently reside in Mexico, I have a great pleasure in software development and learning new technologies.                                                                                                                                                                      
 Soy desarrollador java ☕
 En estos ultimos meses me he estado especializando en JSP y SpringBoot, actualmente resido en mexico, tengo un gran gusto por el desarrollo de software y el aprendizaje de nuevas tecnologias.
 
