@@ -20,6 +20,8 @@ En estos ultimos meses me he estado especializando en JSP y SpringBoot, actualme
 
 # Proyects (On Working) 💻
 
-## Escapate (WebSite)
+### Escapate (WebSite)
 ### What is escapate?
-Escapate is a website for selling fly in aeroline 
+Website for the sale of airline flights, using java and html.
+This project is divided in two.
+One for the public, another for the business sector.
