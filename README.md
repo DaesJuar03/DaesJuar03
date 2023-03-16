@@ -25,5 +25,5 @@ En estos ultimos meses me he estado especializando en JSP y SpringBoot, actualme
 Website for the sale of airline flights, using java and html.                                                                                                            
 This project is divided in two.                                                                                                                                           
 
-### - Version Public (For a users)
-### - Version For a airline´s
+- Version Public (For a users)
+- Version For a airline´s
