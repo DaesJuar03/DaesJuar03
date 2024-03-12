@@ -10,8 +10,8 @@ En estos ultimos meses me he estado especializando en JSP y SpringBoot, actualme
 - [Discord] MØCØ#1946
 
 # 💻 Proyectos 💻
-### Aplicacion web tipo scribd para estudiantes (Privado) release publica:
-### (solo archivos importantes * pronto *)
+### Aplicacion web tipo scribd para estudiantes (Privado) 
+- release publica: 20/04/2024
 
 
 
