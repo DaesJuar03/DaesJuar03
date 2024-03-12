@@ -11,7 +11,8 @@ En estos ultimos meses me he estado especializando en JSP y SpringBoot, actualme
 
 # 💻 Proyectos 💻
 ### Aplicacion web tipo scribd para estudiantes (Privado) 
-- release publica: 20/04/2024
+1. release publica: 20/04/2024
+   - En progreso (solo se visualizaran archivos solidos) 
 
 
 
