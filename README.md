@@ -9,7 +9,8 @@ En estos ultimos meses me he estado especializando en JSP y SpringBoot, actualme
 - [CV](https://drive.google.com/file/d/1M2nnLphBg_QVgNDfS4fghYJo9oqyjmBj/view?usp=share_link) 
 - [Discord] MØCØ#1946
 
-# 💻 Proyectos () 💻
+# 💻 Proyectos 💻
+## Aplicacion web tipo scribd para estudiantes (Privado) release publica (solo archivos importantes *pronto*)
 
 
 
