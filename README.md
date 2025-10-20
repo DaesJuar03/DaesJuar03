@@ -18,7 +18,9 @@
 
 <br>
 
-# Acerca De Mi
+<p>
+  <h1 align="center"><b>Acerca De Mi</b></h1>
+</p>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -30,7 +32,9 @@
 
 <br>
 
-### Lenguajes 
+<p>
+  <h3 align="center"><b>Lenguajes</b></h1>
+</p>
 
 # 💻 Proyectos 💻
 ### Parte del desarrollo de nonculpa.
