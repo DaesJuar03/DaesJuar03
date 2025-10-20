@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="Enderman" src="https://i.pinimg.com/736x/64/fe/a1/64fea1c003a27bde3427c8dd86136af8.jpg" />
+    <img align="center" alt="Enderman" height="360px" src="https://i.pinimg.com/736x/64/fe/a1/64fea1c003a27bde3427c8dd86136af8.jpg" />
 </p>
 
 <p align="center">
