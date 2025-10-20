@@ -43,6 +43,14 @@
     <img src="https://skillicons.dev/icons?i=java,react,nodejs,vue,astro,spring,php,mysql" />
   </a>
 </p>
+<p>
+  <h2 align="center"><b>Herramientas</b></h1>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,xd" />
+  </a>
+</p>
 
 # 💻 Proyectos 💻
 ### Parte del desarrollo de nonculpa.
