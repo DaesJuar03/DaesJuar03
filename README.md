@@ -66,8 +66,7 @@
 <ul>
   <li><b>Nonculpa:</b> Plataforma de venta de ropa en línea con catálogo dinámico y exclusivo, diseño responsive enfocado en la experiencia de compra.</li>
   <li><b>Formulario online para reclutamiento:</b> Aplicación web que evalúa candidatos mediante un sistema de puntaje automático basado en sus respuestas, facilitando la selección de perfiles ideales.</li>
-  <li><b>Formulario online para reclutamiento:</b> Sistema de registro y evaluación de candidatos mediante un formulario inteligente con sistema de puntaje automático.</li>
-  <li><b>Sistema de reservaciones para clínica:</b> Aplicación web para agendar citas médicas, gestionar horarios y notificaciones, optimizando el flujo de atención al paciente.</li>
+  <li><b>Sistema de reservaciones para clínica:</b> Automatizacion para generar citas y una aplicacion para gestionarlas.</li>
 </ul>
 
 
