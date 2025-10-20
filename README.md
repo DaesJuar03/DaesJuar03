@@ -56,7 +56,9 @@
 
 
 
-# 💻 Proyectos 💻
+<p>
+  <h2 align="center"><b>💻 Proyectos 💻</b></h1>
+</p>
 ### Parte del desarrollo de nonculpa.
 ### Formulario online para reclutar con sistema de puntuaje.
 ### Sistema de reservaciones de citas para una clinica.
