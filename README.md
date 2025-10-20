@@ -61,6 +61,10 @@
 <p>
   A lo largo de mi experiencia como desarrollador, he participado en diversos proyectos web enfocados en mejorar la gestión, automatización y eficiencia de procesos digitales. Estos proyectos combinan diseño funcional, arquitectura moderna y una atención especial a la experiencia del usuario.
 </p>
+<br>
+<p>
+  Estos son los proyectos recientes
+</p>
 
 <ul>
   <li><b>Nonculpa:</b> Plataforma de venta de ropa en línea con catálogo dinámico y exclusivo, diseño responsive enfocado en la experiencia de compra.</li>
