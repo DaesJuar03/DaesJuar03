@@ -38,6 +38,11 @@
 <p>
   <h2 align="center"><b>Lenguajes</b></h1>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,react,nodejs,vue,astro,spring,php,mysql" />
+  </a>
+</p>
 
 # 💻 Proyectos 💻
 ### Parte del desarrollo de nonculpa.
