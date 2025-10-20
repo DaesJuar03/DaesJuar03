@@ -55,13 +55,19 @@
 <br>
 
 
+<p align="center">
+  <h2><b>💻 Proyectos 💻</b></h2>
+</p>
 
 <p>
-  <h2 align="center"><b>💻 Proyectos 💻</b></h1>
+  A lo largo de mi experiencia como desarrollador, he participado en diversos proyectos web enfocados en mejorar la gestión, automatización y eficiencia de procesos digitales. Estos proyectos combinan diseño funcional, arquitectura moderna y una atención especial a la experiencia del usuario.
 </p>
-### Parte del desarrollo de nonculpa.
-### Formulario online para reclutar con sistema de puntuaje.
-### Sistema de reservaciones de citas para una clinica.
+
+<ul>
+  <li><b>Nonculpa:</b> Participación en el desarrollo de una plataforma digital con enfoque en gestión de contenido y optimización de la experiencia del usuario.</li>
+  <li><b>Formulario online para reclutamiento:</b> Sistema de registro y evaluación de candidatos mediante un formulario inteligente con sistema de puntaje automático.</li>
+  <li><b>Sistema de reservaciones para clínica:</b> Aplicación web para agendar citas médicas, gestionar horarios y notificaciones, optimizando el flujo de atención al paciente.</li>
+</ul>
 
 
 
