@@ -18,6 +18,7 @@
 
 <br>
 
+
 <p>
   <h1 align="center"><b>Acerca De Mi</b></h1>
 </p>
@@ -31,9 +32,11 @@
 - 🆕 Aprender nuevos lenguajes y frameworks.
 
 <br>
+<br>
+<br>
 
 <p>
-  <h3 align="center"><b>Lenguajes</b></h1>
+  <h2 align="center"><b>Lenguajes</b></h1>
 </p>
 
 # 💻 Proyectos 💻
