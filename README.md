@@ -63,7 +63,7 @@
 </p>
 <br>
 <p>
-  Estos son los proyectos recientes
+  Estos son los proyectos recientes:
 </p>
 
 <ul>
