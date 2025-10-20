@@ -18,15 +18,19 @@
 
 <br>
 
+# Acerca De Mi
+
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Soy Estudiante de Ingenieria en sistemas
-- 💻 Actualmente me dedico a mejorar mis habilidades con los lenguajes y frameworks que conozco y uso en mis proyectos.
+- 💻 Mejorar mis habilidades con los lenguajes y frameworks que conozco y uso en mis proyectos.
 - 📝 Metas de 2026, Dedicarme a vender Software Comercial.
 - 👥 Busco Colaborar con mas desarrolladores.
 - 🆕 Aprender nuevos lenguajes y frameworks.
 
 <br>
+
+### Lenguajes 
 
 # 💻 Proyectos 💻
 ### Parte del desarrollo de nonculpa.
