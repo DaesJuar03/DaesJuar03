@@ -33,8 +33,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p>
   <h2 align="center"><b>Lenguajes</b></h1>
