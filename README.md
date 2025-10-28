@@ -1,6 +1,6 @@
-<p align="center">
+
   [![Minecraft SVG](https://i.pinimg.com/originals/ec/d6/72/ecd67255b08380eb534d3f8ee397bc85.gif) 
-</p>
+
 <p>
   <h1 align="center"><b>Hola! Soy Daniel 👋</b></h1>
 </p>
