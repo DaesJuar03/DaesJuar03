@@ -31,15 +31,12 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      🎓 <b>Systems Engineering Student</b> passionate about building efficient, scalable digital products.<br><br>
-      💡 <b>2026 Goal:</b> Dedicate myself to developing & selling high-quality Commercial Software.<br><br>
-      👥 <b>Collaboration:</b> Eager to connect and work with other developers on exciting web & software projects.<br><br>
-      📚 <b>Continuous Growth:</b> Always expanding my skill set with modern languages, frameworks, and clean architecture patterns.
+      <b>As a Systems Engineering student passionate about continuous growth and clean architecture, I build efficient and scalable digital products while actively collaborating with other developers to achieve my 2026 goal           of developing and selling high-quality commercial software.</b>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200" alt="Coding GIF" />
