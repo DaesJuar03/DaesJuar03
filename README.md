@@ -74,29 +74,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛍️ Nonculpa</h3>
-      <p>Online clothing sales platform with an exclusive, dynamic catalog and a responsive design tailored for an optimized shopping experience.</p>
-      <p><b>Tech Stack:</b> React / Vue • Node.js / PHP • MySQL</p>
+      <h3 align="center">Lummo Studio</h3>
+      <p>Modern local dev server control panel & database manager with instant HTTPS tunnels and embedded SQL workbench.</p>
       <p align="center">
-        <a href="https://github.com/DaesJuar03/nonculpa"><b>[ 🔗 View Repository ]</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📋 Candidate Evaluator</h3>
-      <p>Web application for online recruitment that evaluates candidates through an automatic scoring system based on responses, speeding up selection.</p>
-      <p><b>Tech Stack:</b> JavaScript • Node.js • MySQL</p>
-      <p align="center">
-        <a href="https://github.com/DaesJuar03/recruitment-form"><b>[ 🔗 View Repository ]</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🏥 Clinic Reservation System</h3>
-      <p>Automated appointment generation platform and comprehensive management application designed to streamline clinic workflows.</p>
-      <p><b>Tech Stack:</b> Java / Spring Boot • MySQL • Web UI</p>
-      <p align="center">
-        <a href="https://github.com/DaesJuar03/clinic-reservation"><b>[ 🔗 View Repository ]</b></a>
+        <a href="https://github.com/DaesJuar03/lummo-studio"><b>[ 🔗 View Repository ]</b></a>
       </p>
     </td>
   </tr>
