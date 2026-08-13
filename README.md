@@ -1,12 +1,6 @@
 <div align="center">
 
-  <!-- Encabezado con Animación SVG de Escritura -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Hi+there!+I'm+Daniel+👋;Systems+Engineering+Student+💻;Full-Stack+%26+Software+Dev+🚀;Building+Commercial+Software+🛒" alt="Typing SVG" />
-  </a>
-
   <br><br>
-
   <!-- Imagen de Perfil / Avatar -->
   <img src="https://i.pinimg.com/736x/64/fe/a1/64fea1c003a27bde3427c8dd86136af8.jpg" width="180" style="border-radius: 50%;" alt="Daniel's Avatar" />
 
@@ -72,9 +66,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Lummo Studio</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/DaesJuar03/lummo-studio/v2.1.0/public/Lummo.png" width="200" style="border-radius: 8px;" alt="Lummo Studio" />
+      </div>
       <p>Modern local dev server control panel & database manager with instant HTTPS tunnels and embedded SQL workbench.</p>
       <p align="center">
-        <a href="https://github.com/DaesJuar03/lummo-studio"><b>[ 🔗 View Repository ]</b></a>
+        <a href="https://github.com/DaesJuar03/lummo-studio"><b>[ View Repository ]</b></a>
       </p>
     </td>
   </tr>
