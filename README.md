@@ -79,20 +79,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaesJuar03&show_icons=true&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Stats" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaesJuar03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaesJuar03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 <p align="center">
